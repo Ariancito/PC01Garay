@@ -1,0 +1,44 @@
+/* Agrega estilos CSS aquí */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0; /* Eliminamos el margen predeterminado del cuerpo */
+  padding: 0; /* Eliminamos el relleno predeterminado del cuerpo */
+}
+
+.titulo {
+  color: #333;
+  font-weight: bold;
+  margin: 20px 0; /* Añadido margen superior e inferior para el título */
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 20px;
+  text-align: center;
+}
+
+.equipo {
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
